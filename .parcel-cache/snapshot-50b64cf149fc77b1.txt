@@ -1,12 +1,9 @@
-5136
-54/home/nuhazet/Descargas/Pokedex/dist/index.739bf03c.js1733506280142056385 0
-58/home/nuhazet/Descargas/Pokedex/dist/pokeball.0281e924.png1733506280138056368 0
-58/home/nuhazet/Descargas/Pokedex/dist/index.739bf03c.js.map1733506280150056421 0
-58/home/nuhazet/Descargas/Pokedex/dist/pokeball.bfd304cf.png1733505982508740852 0
-54/home/nuhazet/Descargas/Pokedex/dist/index.2902a4fd.js1733505982548741030 0
-55/home/nuhazet/Descargas/Pokedex/dist/index.7f51f9df.css1733505982548741030 0
-58/home/nuhazet/Descargas/Pokedex/dist/index.2902a4fd.js.map1733505982560741083 0
-36/home/nuhazet/Descargas/Pokedex/dist1733506280150056421 1
+5149
+58/home/nuhazet/Descargas/Pokedex/dist/pokeball.bfd304cf.png1733507278966494155 0
+54/home/nuhazet/Descargas/Pokedex/dist/index.2902a4fd.js1733507278986494245 0
+55/home/nuhazet/Descargas/Pokedex/dist/index.7f51f9df.css1733507278986494245 0
+58/home/nuhazet/Descargas/Pokedex/dist/index.2902a4fd.js.map1733507278994494280 0
+36/home/nuhazet/Descargas/Pokedex/dist1733507278998494299 1
 67/home/nuhazet/Descargas/Pokedex/node_modules/trim-repeated/index.js1733483861601656105 0
 71/home/nuhazet/Descargas/Pokedex/node_modules/trim-repeated/package.json1733483861601656105 0
 70/home/nuhazet/Descargas/Pokedex/node_modules/lines-and-columns/LICENSE1733461124904651263 0
@@ -27,6 +24,15 @@
 80/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/lib/esm/package.json1733461125024651963 0
 67/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/lib/esm1733461125052652127 1
 74/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/lib/index.d.ts1733461125128652573 0
+78/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/lib/index.d.ts.map1733461125044652081 0
+67/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/LICENSE1733461124904651263 0
+72/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/package.json1733461125032652011 0
+59/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype1733461125044652081 1
+77/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/walk.js1733461125032652011 0
+78/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/parse.js1733461124960651590 0
+73/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/LICENSE1733461124908651285 0
+65/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser1733461125036652033 1
+63/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/struct.js1733461126284659336 0
 99/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/custom-targets/package.json1733461129536678369 0
 107/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/custom-format-mismatch/package.json1733461129532678347 0
 94/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/custom-format-mismatch1733461129532678347 1
@@ -66,7 +72,7 @@
 96/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/custom-format-infer-type1733461129532678347 1
 95/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/plugins/local-plugin.js1733461129440677808 0
 80/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/alt-sa.js1733461125432654351 0
-108/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/HEAD1733506653955713289 0
+108/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/HEAD1733506861412634923 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/async/internal/initialParams.js1733483862913663597 0
 123/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines1733461129552678463 1
 57/home/nuhazet/Descargas/Pokedex/node_modules/async/all.js1733483861601656105 0
@@ -171,7 +177,6 @@
 82/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/package-manager/test/fixtures1733461128756673804 1
 83/home/nuhazet/Descargas/Pokedex/node_modules/utility-types/dist/mapped-types.js.map1733461125300653580 0
 117/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr-extract/node_modules/.bin/node-gyp-build-optional-packages-test1733461138336729875 0
-67/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/LICENSE1733461124904651263 0
 90/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/package-manager/src/installPackage.js1733461128752673780 0
 111/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/dom-serializer/node_modules/entities/LICENSE1733461124912651309 0
 63/home/nuhazet/Descargas/Pokedex/node_modules/fastq/package.json1733483861477655397 0
@@ -226,7 +231,7 @@
 78/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/loaders.d.ts.map1733461125300653580 0
 82/home/nuhazet/Descargas/Pokedex/node_modules/@mischnic/json-sourcemap/package.json1733461126364659804 0
 71/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-js/lib1733461127340665516 1
-54/home/nuhazet/Descargas/Pokedex/dist/logo.eb21b9d1.png1733505982508740852 0
+54/home/nuhazet/Descargas/Pokedex/dist/logo.eb21b9d1.png1733507278986494245 0
 78/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/lib/modules/minifyJs.cjs1733461125904657113 0
 80/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-js/package.json1733461127352665587 0
 67/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-js1733461127352665587 1
@@ -280,7 +285,6 @@
 62/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/codeframe1733461126616661278 1
 85/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/src/requests/PathRequest.js1733461129480678042 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/SN.js1733461126636661397 0
-90/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-css/lib/CSSTransformer.js1733461127396665844 0
 90/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-css/src/CSSTransformer.js1733461127400665868 0
 94/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/source-map/dist/wasm-bindings-web.js.flow1733461126364659804 0
 91/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/cjs/_class_private_method_get.cjs1733461125492654702 0
@@ -365,7 +369,6 @@
 77/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/packager-js/package.json1733461128556672633 0
 70/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/merge.js1733461125116652503 0
 91/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-supports-api.js1733461125816656596 0
-90/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/packager-js/src/GlobalOutputFormat.js1733461128544672562 0
 70/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/feature-flags/src1733461128896674624 1
 87/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/packager-js/src/ESMOutputFormat.js1733461128544672562 0
 130/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/timsort/.npmignore1733495727937628449 0
@@ -438,6 +441,7 @@
 82/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/fileapi.js1733461125952657394 0
 89/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/watcher/src/macos/FSEventsBackend.cc1733461126284659336 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/MX.js1733461126468660412 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/b9/11cbe465ecdc2e888ad4356947b9bcea21aa701733506861180633890 0
 63/home/nuhazet/Descargas/Pokedex/node_modules/async/anySeries.js1733483861609656152 0
 70/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/watcher/src/macos1733461126408660062 1
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/SE.js1733461126632661372 0
@@ -502,7 +506,7 @@
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/07/0bfd2f46f808e53350a29cc94ec5aeafc1e1e71733506653767712454 0
 93/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/cjs/_class_private_field_update.cjs1733461125488654680 0
 128/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/local-plugin-config-pkg/node_modules/parcel-config-local1733461129548678440 1
-59/home/nuhazet/Descargas/Pokedex/dist/index.7f51f9df.css.map1733505982560741083 0
+59/home/nuhazet/Descargas/Pokedex/dist/index.7f51f9df.css.map1733507278994494280 0
 65/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/scripts1733461125768656315 1
 90/home/nuhazet/Descargas/Pokedex/node_modules/fast-glob/out/providers/matchers/matcher.d.ts1733483861533655717 0
 84/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/src/_non_iterable_rest.mjs1733461126516660693 0
@@ -512,7 +516,7 @@
 66/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/packager-html1733461128012669449 1
 87/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/test/input/config/empty.toml1733461129616678838 0
 139/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/email-addresses/.travis.yml1733495727697627625 0
-111/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects1733506654019713573 1
+111/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects1733506861400634869 1
 87/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/test/input/config/empty.json1733461129300676990 0
 70/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/packager-html/lib1733461128012669449 1
 105/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/config-plugin-not-found/.parcelrc1733461129048675514 0
@@ -531,6 +535,8 @@
 80/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/src/parseCSSImport.js1733461129296676965 0
 65/home/nuhazet/Descargas/Pokedex/node_modules/email-addresses/test1733483861713656745 1
 79/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/src/shared-buffer.js1733461129300676990 0
+90/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/packager-js/src/GlobalOutputFormat.js1733461128544672562 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/d5/23a716c8c6aa7637dd007fdb8f05c97b13f93a1733506861180633890 0
 77/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/src/escape-html.js1733461128948674927 0
 75/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/src/TapStream.js1733461129300676990 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/glob-like1733461129052675536 1
@@ -615,7 +621,6 @@
 73/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/types/lib/index.d.ts1733461126784662261 0
 62/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/types/lib1733461126784662261 1
 65/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/index1733461126292659383 1
-54/home/nuhazet/Descargas/Pokedex/dist/logo.08a29ce2.png1733506280130056332 0
 82/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/lib/modules/mergeScripts.mjs1733461126364659804 0
 142/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.parcel-cache/snapshot-b94160e16fbae75a.txt1733495725273619302 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/lightningcss-linux-x64-gnu/README.md1733461125028651986 0
@@ -658,7 +663,7 @@
 83/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/esm/_non_iterable_rest.js1733461125716656012 0
 86/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/canUseDynamicImport.d.ts1733461125396654140 0
 73/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/Explorer.js1733461124988651753 0
-109/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/index1733506654019713573 0
+109/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/index1733506861448635082 0
 84/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/graph/test/ContentGraph.test.js1733461126836662566 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/watcher/src/Debounce.cc1733461126276659291 0
 83/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/ExplorerBase.d.ts.map1733461125220653111 0
@@ -675,7 +680,6 @@
 79/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/graph/lib/AdjacencyList.js1733461126828662519 0
 95/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-babel/src/remapAstLocations.js1733461127592666990 0
 72/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/merge.d.ts1733461125456654491 0
-77/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/walk.js1733461125032652011 0
 70/home/nuhazet/Descargas/Pokedex/node_modules/utility-types/SECURITY.md1733461125352653883 0
 74/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/loaders.d.ts1733461125452654469 0
 77/home/nuhazet/Descargas/Pokedex/node_modules/@nodelib/fs.scandir/out/adapters1733483861505655557 1
@@ -700,6 +704,8 @@
 94/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/htmlparser2/lib/Parser.d.ts1733461128788673991 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/getDirectory.js.map1733461125264653369 0
 78/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/ttf.js1733461126652661489 0
+66/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/benchmark.md1733461126584661091 0
+62/home/nuhazet/Descargas/Pokedex/node_modules/make-dir/index.js1733483861421655078 0
 94/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/package-manager/src/NodePackageManager.js1733461128752673780 0
 92/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/createimagebitmap.js1733461125668655732 0
 86/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/getPropertyByPath.js.map1733461125272653415 0
@@ -780,7 +786,6 @@
 65/home/nuhazet/Descargas/Pokedex/node_modules/browserslist/node.js1733461126300659430 0
 60/home/nuhazet/Descargas/Pokedex/node_modules/pkg-dir/license1733483861441655192 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/entities/lib/decode_codepoint.js.map1733461125336653790 0
-63/home/nuhazet/Descargas/Pokedex/node_modules/pkg-dir/index.d.ts1733483861421655078 0
 90/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/posthtml-parser/license1733461128816674156 0
 66/home/nuhazet/Descargas/Pokedex/node_modules/node-releases/LICENSE1733461125176652853 0
 132/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/ordered-binary/.idea1733495727909628354 1
@@ -852,6 +857,7 @@
 71/home/nuhazet/Descargas/Pokedex/node_modules/graceful-fs/graceful-fs.js1733483861425655101 0
 65/home/nuhazet/Descargas/Pokedex/node_modules/graceful-fs/clone.js1733483861421655078 0
 83/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/diagnostic/lib/diagnostic.d.ts1733461129012675303 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/9d/6e00e5632754a0de148784ff55e005fd35f31b1733506861392634833 0
 68/home/nuhazet/Descargas/Pokedex/node_modules/color-name/package.json1733461124908651285 0
 101/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr-extract/node_modules/detect-libc/lib/process.js1733461128684673382 0
 113/home/nuhazet/Descargas/Pokedex/node_modules/ordered-binary/.nyc_output/5b6bd808-0399-4ee6-9395-344688761dfa.json1733461125264653369 0
@@ -903,7 +909,6 @@
 69/home/nuhazet/Descargas/Pokedex/node_modules/@lezer/lr/dist/index.cjs1733461126168658657 0
 102/home/nuhazet/Descargas/Pokedex/node_modules/node-gyp-build-optional-packages/node_modules/detect-libc1733461128716673569 1
 98/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/upgradeinsecurerequests.js1733461126652661489 0
-78/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/lib/index.d.ts.map1733461125044652081 0
 90/home/nuhazet/Descargas/Pokedex/node_modules/node-gyp-build-optional-packages/package.json1733461125180652876 0
 93/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/src/requests/ParcelConfigRequest.js1733461129468677971 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/CD.js1733461125628655497 0
@@ -936,6 +941,8 @@
 74/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/optimizer-swc/LICENSE1733461128696673452 0
 59/home/nuhazet/Descargas/Pokedex/node_modules/dom-serializer1733461125132652595 1
 93/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/unhandledrejection.js1733461126652661489 0
+78/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/index.js1733461124928651403 0
+58/home/nuhazet/Descargas/Pokedex/node_modules/@lezer/common1733461126196658822 1
 87/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/style-scoped.js1733461126644661443 0
 86/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/textcontent.js1733461126648661467 0
 91/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/broadcastchannel.js1733461125612655405 0
@@ -1054,6 +1061,8 @@
 71/home/nuhazet/Descargas/Pokedex/node_modules/async/internal/onlyOnce.js1733483862921663642 0
 72/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/workers/src/process1733461126820662473 1
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/NU.js1733461126516660693 0
+77/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/unit.js1733461125012651894 0
+76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/PG.js1733461126584661091 0
 97/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/declarative-shadow-dom.js1733461125836656715 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/BF.js1733461125592655288 0
 116/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/dom-serializer/node_modules/entities/package.json1733461125128652573 0
@@ -1089,6 +1098,8 @@
 87/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/parcel/other.js1733461129448677854 0
 62/home/nuhazet/Descargas/Pokedex/node_modules/find-up/readme.md1733483861461655306 0
 86/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/user-timing.js1733461126664661559 0
+80/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/index.d.ts1733461125068652221 0
+90/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/rest-parameters.js1733461126624661326 0
 92/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/context/package.json1733461129532678347 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/KR.js1733461126164658634 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/TZ.js1733461126652661489 0
@@ -1182,6 +1193,8 @@
 98/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/focusin-focusout-events.js1733461125968657486 0
 79/home/nuhazet/Descargas/Pokedex/node_modules/node-addon-api/tools/check-napi.js1733461125500654749 0
 65/home/nuhazet/Descargas/Pokedex/node_modules/electron-to-chromium1733461125268653391 1
+82/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/stringify.js1733461124976651684 0
+96/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/native-filesystem-api.js1733461126496660577 0
 85/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_await_value/package.json1733461125804656526 0
 68/home/nuhazet/Descargas/Pokedex/node_modules/browserslist/error.d.ts1733461126332659618 0
 69/home/nuhazet/Descargas/Pokedex/node_modules/js-yaml/lib/type/null.js1733461125344653836 0
@@ -1249,7 +1262,6 @@
 91/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/lib/modules/removeAttributeQuotes.mjs1733461126392659969 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/VI.js1733461126668661583 0
 93/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/packager-wasm/src/wasm-sourcemap.js.flow1733461127712667693 0
-76/home/nuhazet/Descargas/Pokedex/node_modules/type-fest/ts41/pascal-case.d.ts1733461125480654632 0
 109/home/nuhazet/Descargas/Pokedex/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.napi.musl.node1733461125304653602 0
 102/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/040-presets.md1733461126236659055 0
 60/home/nuhazet/Descargas/Pokedex/node_modules/p-try/readme.md1733483861441655192 0
@@ -1304,7 +1316,7 @@
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/541733506485794967304 1
 77/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/src/relativeUrl.js1733461129300676990 0
 105/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/docs/versioned_sidebars/version-2.0.0-sidebars.json1733461126192658798 0
-153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/0e/230e5b8ca814b8cbe2617fc902d63e7e552fe91733506654003713502 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/0e/230e5b8ca814b8cbe2617fc902d63e7e552fe91733506861448635082 0
 91/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/webkit-user-drag.js1733461126680661654 0
 74/home/nuhazet/Descargas/Pokedex/node_modules/@nodelib/fs.scandir/out/utils1733483861513655603 1
 78/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/esm/_to_primitive.js1733461125736656129 0
@@ -1323,7 +1335,7 @@
 89/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dependencies/v8/v8-fast-api-calls-v16.h1733461126484660507 0
 63/home/nuhazet/Descargas/Pokedex/node_modules/@lezer/common/dist1733461126200658845 1
 85/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-resize.js1733461125792656456 0
-123/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/refs/remotes/origin1733506656051722594 1
+123/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/refs/remotes/origin1733506863264643155 1
 66/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/package.json1733461126184658752 0
 64/home/nuhazet/Descargas/Pokedex/node_modules/dotenv/README-es.md1733461126460660366 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/PK.js1733461126600661186 0
@@ -1351,7 +1363,7 @@
 77/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/esm/querying.js.map1733461125384654070 0
 92/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/resolver-default/lib/DefaultResolver.js1733461127904668817 0
 88/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/online-status.js1733461126548660880 0
-114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/FETCH_HEAD1733506653911713093 0
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/FETCH_HEAD1733506861400634869 0
 59/home/nuhazet/Descargas/Pokedex/node_modules/merge2/LICENSE1733483861417655055 0
 97/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/esm/_object_without_properties_loose.js1733461125720656036 0
 75/home/nuhazet/Descargas/Pokedex/node_modules/@lezer/common/dist/index.d.cts1733461126164658634 0
@@ -1367,6 +1379,9 @@
 105/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/entities/lib/decode_codepoint.d.ts.map1733461128928674810 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/dist/unpacker/region.js1733461126612661256 0
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/d3/f071a13b0bee2d7d788969535375dfce52c4a51733495731101639317 0
+69/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/readme.md1733461125052652127 0
+76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/ES.js1733461125904657113 0
+72/home/nuhazet/Descargas/Pokedex/node_modules/dom-serializer/package.json1733461125068652221 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/PM.js1733461126600661186 0
 106/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/package-manager/test/fixtures/packages/peers/index.js1733461128752673780 0
 105/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/keyboardevent-getmodifierstate.js1733461126136658471 0
@@ -1456,7 +1471,6 @@
 63/home/nuhazet/Descargas/Pokedex/node_modules/get-port/readme.md1733461127992669333 0
 87/home/nuhazet/Descargas/Pokedex/node_modules/json-parse-even-better-errors/package.json1733461124916651333 0
 70/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/src/index.js1733461129428677738 0
-82/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/test/objectHash.test.js1733461129296676965 0
 67/home/nuhazet/Descargas/Pokedex/node_modules/js-yaml/bin/js-yaml.js1733461125176652853 0
 85/home/nuhazet/Descargas/Pokedex/node_modules/utility-types/dist/functional-helpers.js1733461125260653344 0
 65/home/nuhazet/Descargas/Pokedex/node_modules/fill-range/README.md1733461125164652782 0
@@ -1572,6 +1586,9 @@
 69/home/nuhazet/Descargas/Pokedex/node_modules/js-yaml/dist/js-yaml.mjs1733461125468654561 0
 74/home/nuhazet/Descargas/Pokedex/node_modules/@lmdb/lmdb-linux-x64/index.js1733461125460654515 0
 88/home/nuhazet/Descargas/Pokedex/node_modules/htmlparser2/lib/esm/WritableStream.d.ts.map1733461125464654539 0
+75/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/README.md1733461125048652103 0
+84/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-masks.js1733461125768656315 0
+76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/KM.js1733461126156658587 0
 79/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/src/Transformation.js1733461129516678252 0
 64/home/nuhazet/Descargas/Pokedex/node_modules/path-exists/license1733483861437655169 0
 63/home/nuhazet/Descargas/Pokedex/node_modules/micromatch/LICENSE1733461125224653134 0
@@ -1581,8 +1598,6 @@
 72/home/nuhazet/Descargas/Pokedex/node_modules/cosmiconfig/dist/types.d.ts1733461125464654539 0
 93/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-color-function.js1733461125712655990 0
 123/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-arm64-musl.node1733461127836668419 0
-58/home/nuhazet/Descargas/Pokedex/node_modules/@lezer/common1733461126196658822 1
-78/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/index.js1733461124928651403 0
 69/home/nuhazet/Descargas/Pokedex/node_modules/js-yaml/lib/exception.js1733461125116652503 0
 57/home/nuhazet/Descargas/Pokedex/node_modules/gh-pages/bin1733483861605656128 1
 94/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-text-align-last.js1733461125816656596 0
@@ -1640,7 +1655,7 @@
 70/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-image1733461127952669098 1
 78/home/nuhazet/Descargas/Pokedex/node_modules/fast-glob/out/providers/stream.js1733483861521655650 0
 86/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/namer-default/src/DefaultNamer.js1733461128384671627 0
-114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/821733506485854967570 1
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/821733506861188633925 1
 85/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/webworkers.js1733461126680661654 0
 78/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/graph/lib/ContentGraph.js1733461126836662566 0
 100/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/sample-bdb.txt1733461126600661186 0
@@ -1651,12 +1666,11 @@
 75/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/esm/_using_ctx.js1733461125756656247 0
 59/home/nuhazet/Descargas/Pokedex/node_modules/fastq/bench.js1733483861417655055 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/profiler/test/Tracer.test.js1733461126800662355 0
-31/home/nuhazet/Descargas/Pokedex1733483953250179032 1
+31/home/nuhazet/Descargas/Pokedex1733507278946494066 1
 66/home/nuhazet/Descargas/Pokedex/node_modules/js-yaml/lib/loader.js1733461125320653696 0
 61/home/nuhazet/Descargas/Pokedex/node_modules/slash/index.d.ts1733483861421655078 0
 86/home/nuhazet/Descargas/Pokedex/node_modules/@lmdb/lmdb-linux-x64/node.napi.glibc.node1733461126132658447 0
 72/home/nuhazet/Descargas/Pokedex/node_modules/@lezer/lr/dist/constants.js1733461126184658752 0
-73/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/LICENSE1733461124908651285 0
 80/home/nuhazet/Descargas/Pokedex/node_modules/node-addon-api/package-support.json1733461125516654842 0
 74/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/watcher/src/Signal.hh1733461126432660201 0
 83/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dependencies/lz4/lib/liblz4.pc.in1733461126500660599 0
@@ -1690,7 +1704,7 @@
 98/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js.map1733461129940680734 0
 84/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/lib/modules/sortAttributes.mjs1733461126424660155 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/CZ.js1733461125836656715 0
-116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/logo.eb21b9d1.png1733506653999713485 0
+116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/logo.eb21b9d1.png1733506861440635047 0
 73/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/packager-css/LICENSE1733461127964669168 0
 59/home/nuhazet/Descargas/Pokedex/node_modules/dotenv/LICENSE1733461126416660109 0
 88/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/fixtures/parcel/yarn.lock1733461129552678463 0
@@ -1723,7 +1737,7 @@
 59/home/nuhazet/Descargas/Pokedex/node_modules/async/cargo.js1733483862865663322 0
 95/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-at-counter-style.js1733461125672655756 0
 67/home/nuhazet/Descargas/Pokedex/node_modules/env-paths/package.json1733461124928651403 0
-116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.739bf03c.js1733506653999713485 0
+116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.739bf03c.js1733506861440635047 0
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/421733495731101639317 1
 66/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/dist/lib1733461126644661443 1
 91/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/publickeypinning.js1733461126604661208 0
@@ -1975,6 +1989,7 @@
 90/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/insert-adjacent.js1733461126096658236 0
 59/home/nuhazet/Descargas/Pokedex/node_modules/globby/license1733483861581655991 0
 71/home/nuhazet/Descargas/Pokedex/node_modules/htmlparser2/lib/index.d.ts1733461125492654702 0
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/961733506861188633925 1
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/NA.js1733461126484660507 0
 68/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_extends1733461125968657486 1
 70/home/nuhazet/Descargas/Pokedex/node_modules/@babel/code-frame/LICENSE1733461125136652619 0
@@ -2340,6 +2355,7 @@
 81/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/hidden.js1733461126020657792 0
 68/home/nuhazet/Descargas/Pokedex/node_modules/async/forEachOfLimit.js1733483862909663573 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/TG.js1733461126648661467 0
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/fe1733506861188633925 1
 72/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/src/_throw.mjs1733461126548660880 0
 67/home/nuhazet/Descargas/Pokedex/node_modules/react-refresh/babel.js1733461125328653742 0
 91/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-text-justify.js1733461125816656596 0
@@ -2405,7 +2421,7 @@
 89/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/scrollintoview.js1733461126632661372 0
 63/home/nuhazet/Descargas/Pokedex/node_modules/async/transform.js1733483863065664464 0
 92/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-focus-visible.js1733461125736656129 0
-109/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.html1733506653999713485 0
+109/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.html1733506861440635047 0
 66/home/nuhazet/Descargas/Pokedex/node_modules/domutils/package.json1733461125232653182 0
 79/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_throw/package.json1733461126124658401 0
 58/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils1733461129300676990 1
@@ -2530,7 +2546,7 @@
 68/home/nuhazet/Descargas/Pokedex/node_modules/nullthrows/package.json1733461124908651285 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-css/LICENSE1733461127392665820 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/esm/index.d.ts.map1733461125300653580 0
-103/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git1733506654019713573 1
+103/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git1733506861452635100 1
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/MQ.js1733461126420660131 0
 98/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/background-position-x-y.js1733461125564655123 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/node-addon-api/tools/clang-format.js1733461125500654749 0
@@ -2625,6 +2641,8 @@
 59/home/nuhazet/Descargas/Pokedex/node_modules/supports-color1733461124956651566 1
 87/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/wasm-signext.js1733461126668661583 0
 121/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.win32-x64-msvc.node1733461128300671135 0
+63/home/nuhazet/Descargas/Pokedex/node_modules/pkg-dir/index.d.ts1733483861421655078 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/96/b91a1c9499cbc4487241ea4cd912444d2581941733506861188633925 0
 97/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/passive-event-listener.js1733461126564660975 0
 129/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/dom-serializer/node_modules/entities/lib/decode_codepoint.d.ts1733461125188652923 0
 87/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/console-time.js1733461125664655708 0
@@ -2668,6 +2686,7 @@
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/SY.js1733461126648661467 0
 119/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/timsort1733495731069639208 1
 91/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-first-letter.js1733461125732656107 0
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/7a1733506861392634833 1
 96/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/extended-system-fonts.js1733461125928657253 0
 61/home/nuhazet/Descargas/Pokedex/node_modules/fastq/index.d.ts1733483861501655534 0
 93/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/font-unicode-range.js1733461125980657557 0
@@ -2958,9 +2977,6 @@
 80/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/runtime-js/lib/helpers/node1733461127604667060 1
 88/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/lib/requests/PackageRequest.js1733461129452677879 0
 85/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/source-map/dist/wasm-bindings.js1733461126432660201 0
-84/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-masks.js1733461125768656315 0
-76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/KM.js1733461126156658587 0
-75/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/README.md1733461125048652103 0
 71/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/lib/Parcel.js1733461129464677949 0
 100/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_ts_add_disposable_resource/package.json1733461126144658517 0
 141/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.parcel-cache/9a8abc112d34041d-BundleGraph1733495725261619261 0
@@ -3029,6 +3045,8 @@
 72/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/feeds.d.ts.map1733461125248653274 0
 82/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-babel/lib/flow.js1733461127592666990 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-babel/lib/jsx.js1733461127592666990 0
+63/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/lib1733461125116652503 1
+94/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-babel/lib/BabelTransformer.js1733461127580666920 0
 73/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-html/src1733461128120670083 1
 61/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/cjs1733461125628655497 1
 87/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-babel/lib/constants.js1733461127588666968 0
@@ -3058,10 +3076,8 @@
 119/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.darwin-arm64.node1733461126692661724 0
 72/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/index.d.ts.map1733461125308653626 0
 56/home/nuhazet/Descargas/Pokedex/node_modules/.bin/parcel1733461138336729875 0
-153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/0e/47ffb7199ae85b3c4d359c649e9f56913d6d811733506654003713502 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/0e/47ffb7199ae85b3c4d359c649e9f56913d6d811733506861448635082 0
 71/home/nuhazet/Descargas/Pokedex/node_modules/picocolors/picocolors.d.ts1733461125008651869 0
-62/home/nuhazet/Descargas/Pokedex/node_modules/make-dir/index.js1733483861421655078 0
-66/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/benchmark.md1733461126584661091 0
 94/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/source-map/parcel_sourcemap_node/build.js1733461126376659874 0
 68/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/source-map/dist1733461126432660201 1
 82/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/source-map/dist/types.js.flow1733461126352659734 0
@@ -3266,7 +3282,7 @@
 68/home/nuhazet/Descargas/Pokedex/node_modules/filename-reserved-regex1733483861597656083 1
 76/home/nuhazet/Descargas/Pokedex/node_modules/filename-reserved-regex/license1733483861597656083 0
 100/home/nuhazet/Descargas/Pokedex/node_modules/react-refresh/cjs/react-refresh-babel.production.min.js1733461125392654118 0
-153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/bc/8d186ae510aaefa8d49532e577d62bdb7016d01733506654003713502 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/bc/8d186ae510aaefa8d49532e577d62bdb7016d01733506861448635082 0
 51/home/nuhazet/Descargas/Pokedex/node_modules/semver1733461126368659828 1
 76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/RE.js1733461126612661256 0
 64/home/nuhazet/Descargas/Pokedex/node_modules/semver/package.json1733461126368659828 0
@@ -3281,7 +3297,6 @@
 76/home/nuhazet/Descargas/Pokedex/node_modules/semver/ranges/to-comparators.js1733461126356659758 0
 70/home/nuhazet/Descargas/Pokedex/node_modules/semver/ranges/simplify.js1733461126336659640 0
 78/home/nuhazet/Descargas/Pokedex/node_modules/fs-extra/lib/path-exists/index.js1733483861557655854 0
-65/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser1733461125036652033 1
 65/home/nuhazet/Descargas/Pokedex/node_modules/semver/ranges/ltr.js1733461126248659126 0
 65/home/nuhazet/Descargas/Pokedex/node_modules/semver/ranges/gtr.js1733461126224658985 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/docs/docs/060-contribute.md1733461126272659266 0
@@ -3335,6 +3350,7 @@
 61/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/src/env.cpp1733461126276659291 0
 99/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/node_modules/node-addon-api/tools/clang-format.js1733461128960674998 0
 84/home/nuhazet/Descargas/Pokedex/node_modules/fast-glob/out/providers/filters/deep.js1733483861505655557 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/7a/f1b28e0dc54f38b2be3e23ad8770b7fa1540d01733506861392634833 0
 63/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/src/windows.c1733461126212658915 0
 69/home/nuhazet/Descargas/Pokedex/node_modules/escalade/sync/index.d.ts1733461125248653274 0
 65/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/src/lmdb-js.cpp1733461126280659313 0
@@ -3381,7 +3397,7 @@
 54/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dist1733461126532660788 1
 57/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/LICENSE1733461125960657440 0
 60/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/fs/test1733461129424677714 1
-153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/ab/ca2a8689094fc5557e84f44eebc464962601e81733506654003713502 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/ab/ca2a8689094fc5557e84f44eebc464962601e81733506861448635082 0
 62/home/nuhazet/Descargas/Pokedex/node_modules/@lezer/lr/LICENSE1733461125756656247 0
 57/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/read.js1733461126524660740 0
 83/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-image/package.json1733461127952669098 0
@@ -3392,6 +3408,7 @@
 70/home/nuhazet/Descargas/Pokedex/node_modules/queue-microtask/README.md1733483861429655124 0
 83/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/node_modules/node-addon-api/tools1733461128972675068 1
 58/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/level.js1733461126508660647 0
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/b91733506861180633890 1
 79/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dependencies/lz4/lib/Makefile1733461125968657486 0
 87/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dependencies/lz4/lib/liblz4-dll.rc.in1733461126500660599 0
 68/home/nuhazet/Descargas/Pokedex/node_modules/posthtml-parser/license1733461125804656526 0
@@ -3509,7 +3526,7 @@
 90/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/src/_assert_this_initialized.mjs1733461126364659804 0
 71/home/nuhazet/Descargas/Pokedex/node_modules/picomatch/lib/constants.js1733461124928651403 0
 67/home/nuhazet/Descargas/Pokedex/node_modules/picomatch/lib/utils.js1733461125052652127 0
-121/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.7f51f9df.css.map1733506653999713485 0
+121/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.7f51f9df.css.map1733506861440635047 0
 64/home/nuhazet/Descargas/Pokedex/node_modules/@swc/core/util.d.ts1733461125516654842 0
 54/home/nuhazet/Descargas/Pokedex/node_modules/callsites1733461124956651566 1
 63/home/nuhazet/Descargas/Pokedex/node_modules/callsites/index.js1733461124924651379 0
@@ -3526,7 +3543,7 @@
 67/home/nuhazet/Descargas/Pokedex/node_modules/find-cache-dir/license1733483861417655055 0
 71/home/nuhazet/Descargas/Pokedex/node_modules/fs-extra/lib/copy/index.js1733483861549655808 0
 93/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/cjs/_object_destructuring_empty.cjs1733461125596655310 0
-110/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/config1733506654011713537 0
+110/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/config1733506861452635100 0
 83/home/nuhazet/Descargas/Pokedex/node_modules/@babel/helper-validator-identifier/lib1733461125248653274 1
 53/home/nuhazet/Descargas/Pokedex/node_modules/error-ex1733461124924651379 1
 99/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/mdn-text-decoration-line.js1733461126288659361 0
@@ -3663,7 +3680,7 @@
 81/home/nuhazet/Descargas/Pokedex/node_modules/entities/lib/esm/decode_codepoint.js1733461124972651659 0
 75/home/nuhazet/Descargas/Pokedex/node_modules/entities/lib/esm/escape.js.map1733461125512654818 0
 69/home/nuhazet/Descargas/Pokedex/node_modules/entities/lib/encode.d.ts1733461125564655123 0
-120/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/pokeball.bfd304cf.png1733506653999713485 0
+120/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/pokeball.bfd304cf.png1733506861440635047 0
 69/home/nuhazet/Descargas/Pokedex/node_modules/entities/lib/decode.d.ts1733461125552655053 0
 75/home/nuhazet/Descargas/Pokedex/node_modules/regenerator-runtime/runtime.js1733461124968651637 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/test/test-utils.js1733461129512678229 0
@@ -3677,7 +3694,7 @@
 73/home/nuhazet/Descargas/Pokedex/node_modules/fs-extra/lib/remove/index.js1733483861557655854 0
 61/home/nuhazet/Descargas/Pokedex/node_modules/domutils/LICENSE1733461124904651263 0
 57/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib1733461125516654842 1
-117/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.3092e1e0.css1733506653999713485 0
+117/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.3092e1e0.css1733506861440635047 0
 74/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/helpers.d.ts.map1733461125284653485 0
 85/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/node-resolver-core/lib/_empty.js1733461126224658985 0
 84/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css3-attr.js1733461125828656667 0
@@ -3702,15 +3719,13 @@
 74/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/traversal.js.map1733461125456654491 0
 74/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/stringify.js.map1733461125424654304 0
 83/home/nuhazet/Descargas/Pokedex/node_modules/type-fest/source/conditional-pick.d.ts1733461125324653720 0
-95/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/wasm-reference-types.js1733461126668661583 0
-78/home/nuhazet/Descargas/Pokedex/node_modules/async/internal/promiseCallback.js1733483862921663642 0
 73/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/querying.js.map1733461125392654118 0
 58/home/nuhazet/Descargas/Pokedex/node_modules/async/each.js1733483862889663459 0
 89/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/entities/lib/decode.js1733461128904674670 0
 69/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/legacy.d.ts1733461125492654702 0
 76/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/esm/feeds.d.ts.map1733461125240653228 0
 127/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/email-addresses1733495731041639111 1
-153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/4a/0e9792a7428b68f0ece76c9494bb66cc2735091733506654003713502 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/4a/0e9792a7428b68f0ece76c9494bb66cc2735091733506861448635082 0
 83/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/esm/manipulation.d.ts.map1733461125352653883 0
 88/home/nuhazet/Descargas/Pokedex/node_modules/entities/lib/generated/decode-data-xml.d.ts1733461125548655029 0
 92/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_class_static_private_method_get1733461125900657088 1
@@ -3728,6 +3743,7 @@
 70/home/nuhazet/Descargas/Pokedex/node_modules/parcel/src/.eslintrc.json1733461128660673241 0
 88/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-scrollbar.js1733461125800656504 0
 121/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/term-size1733495731069639208 1
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/e51733506861392634833 1
 80/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/esm/stringify.d.ts.map1733461125396654140 0
 75/home/nuhazet/Descargas/Pokedex/node_modules/domutils/lib/esm/querying.d.ts1733461125504654771 0
 70/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/lib/htmlnano.cjs1733461125892657042 0
@@ -3780,7 +3796,7 @@
 89/home/nuhazet/Descargas/Pokedex/node_modules/gh-pages/node_modules/commander/package.json1733483861621656220 0
 85/home/nuhazet/Descargas/Pokedex/node_modules/gh-pages/node_modules/commander/index.js1733483861617656197 0
 87/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/font-kerning.js1733461125976657534 0
-114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/refs/heads1733506654019713573 1
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/refs/heads1733506861420634958 1
 84/home/nuhazet/Descargas/Pokedex/node_modules/gh-pages/node_modules/commander/typings1733483861645656357 1
 94/home/nuhazet/Descargas/Pokedex/node_modules/gh-pages/node_modules/commander/typings/esm.d.mts1733483861645656357 0
 95/home/nuhazet/Descargas/Pokedex/node_modules/gh-pages/node_modules/commander/typings/index.d.ts1733483861649656380 0
@@ -3835,7 +3851,7 @@
 68/home/nuhazet/Descargas/Pokedex/node_modules/fastq/.github/workflows1733483861505655557 1
 55/home/nuhazet/Descargas/Pokedex/node_modules/fastq/test1733483861501655534 1
 92/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/esm/_class_apply_descriptor_set.js1733461125656655661 0
-47/home/nuhazet/Descargas/Pokedex/dist/index.html1733506607107505365 0
+47/home/nuhazet/Descargas/Pokedex/dist/index.html1733507278986494245 0
 69/home/nuhazet/Descargas/Pokedex/node_modules/fastq/test/tsconfig.json1733483861489655466 0
 94/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_class_name_tdz_error/package.json1733461125832656690 0
 86/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/lib/requests/AssetRequest.js1733461129212676473 0
@@ -4052,16 +4068,15 @@
 75/home/nuhazet/Descargas/Pokedex/node_modules/@nodelib/fs.stat/out/providers1733483861509655580 1
 60/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages1733495708505561832 1
 84/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/packager-svg/src/SVGPackager.js1733461127936669006 0
-98/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git1733506653991713449 1
+98/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git1733506861436635029 1
 76/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-postcss/lib1733461127120664228 1
-121/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.3092e1e0.css.map1733506653999713485 0
+121/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.3092e1e0.css.map1733506861440635047 0
 99/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_skip_first_generator_next/package.json1733461126088658189 0
-55/home/nuhazet/Descargas/Pokedex/dist/index.3092e1e0.css1733506280138056368 0
 73/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/watcher/src/Event.hh1733461126408660062 0
-120/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.2902a4fd.js.map1733506653999713485 0
-117/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.7f51f9df.css1733506653999713485 0
-116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/logo.08a29ce2.png1733506653999713485 0
-116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.2902a4fd.js1733506653995713466 0
+120/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.2902a4fd.js.map1733506861440635047 0
+117/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.7f51f9df.css1733506861440635047 0
+116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/logo.08a29ce2.png1733506861440635047 0
+116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.2902a4fd.js1733506861440635047 0
 92/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/domutils/lib/helpers.d.ts1733461125216653087 0
 134/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/term-size/vendor/macos1733495731069639208 1
 85/home/nuhazet/Descargas/Pokedex/node_modules/node-gyp-build-optional-packages/LICENSE1733461125132652595 0
@@ -4105,7 +4120,7 @@
 67/home/nuhazet/Descargas/Pokedex/node_modules/callsites/package.json1733461124904651263 0
 155/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/@parcel/core/test/fixtures/config/.parcelrc1733495725349619562 0
 155/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/@parcel/core/test/fixtures/config/subfolder1733495725349619562 1
-167/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/pack/pack-5cc4cc6c368d24cca9da93c30fe4d6479451fc2a.pack1733506654003713502 0
+167/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/pack/pack-5cc4cc6c368d24cca9da93c30fe4d6479451fc2a.pack1733506861448635082 0
 66/home/nuhazet/Descargas/Pokedex/node_modules/error-ex/package.json1733461124904651263 0
 66/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_using1733461126260659196 1
 78/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_wrap_native_super1733461126276659291 1
@@ -4168,10 +4183,10 @@
 83/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/src/isDirectoryInside.js1733461129296676965 0
 129/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.parcel-cache/540e0ac7058039d61733495725261619261 0
 121/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.parcel-cache/lock.mdb1733495725269619288 0
-120/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/pokeball.0281e924.png1733506653999713485 0
+120/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/pokeball.0281e924.png1733506861440635047 0
 61/home/nuhazet/Descargas/Pokedex/node_modules/tslib/tslib.html1733461125152652712 0
-113/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/logs/HEAD1733506654019713573 0
-133/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/logs/refs/remotes/origin/main1733506653911713093 0
+113/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/logs/HEAD1733506861420634958 0
+133/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/logs/refs/remotes/origin/main1733506861400634869 0
 101/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/domutils/lib/manipulation.d.ts.map1733461125160652760 0
 133/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/logs/refs/remotes/origin/HEAD1733495725241619191 0
 124/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/logs/refs/heads/main1733495725245619205 0
@@ -4194,6 +4209,8 @@
 77/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_set_prototype_of1733461126080658143 1
 91/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/wasm-bulk-memory.js1733461126668661583 0
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/f3/614842eac8f9c6f1af2261fc739dcfcdb753611733506485798967322 0
+82/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/test/objectHash.test.js1733461129296676965 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/85/6c98acead87a4a21edbcca560b67650e689d841733506861392634833 0
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/6b1733495731105639331 1
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/321733495731105639331 1
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/d41733495731105639331 1
@@ -4201,6 +4218,7 @@
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/d4/df63f52cda8b9408e2d53f2057740c5e81995d1733495731101639317 0
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/591733506485614966506 1
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/41/cb144300ed187cd5e3a6b4db23fefa7c13ffbe1733495731105639331 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/e5/1b5e22d3f1ab44295c26f762fdea91d97109af1733506861392634833 0
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/831733495731101639317 1
 79/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/src/RequestTracker.js1733461129488678090 0
 63/home/nuhazet/Descargas/Pokedex/node_modules/@swc/types/LICENSE1733461125260653344 0
@@ -4235,12 +4253,21 @@
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/141733506485614966506 1
 115/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/description1733495708509561844 0
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/f5/cf60605fe4892a62eb578e9b8951e2fe66117a1733506485798967322 0
+76/home/nuhazet/Descargas/Pokedex/node_modules/type-fest/ts41/pascal-case.d.ts1733461125480654632 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/82/baf6771267195e9adcc555dd007e3fe1285e6f1733506861188633925 0
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/c11733506485854967570 1
 104/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_copy.c1733461126052657978 0
 102/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_define_enumerable_properties/package.json1733461125952657394 0
+90/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-css/lib/CSSTransformer.js1733461127396665844 0
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/9d1733506861392634833 1
+68/home/nuhazet/Descargas/Pokedex/node_modules/@swc/types/package.json1733461125284653485 0
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/ca1733506653771712472 1
 81/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/dnssec.js1733461125848656785 0
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/ca/12475a656dfbc9b768d42eba7a3e7dfcbacfe91733506653771712472 0
+95/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/wasm-reference-types.js1733461126668661583 0
+78/home/nuhazet/Descargas/Pokedex/node_modules/async/internal/promiseCallback.js1733483862921663642 0
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/341733506861180633890 1
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/34/333b2e6d2d74123c20407c1a729dc48e48a2251733506861180633890 0
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/571733506485854967570 1
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/68/f1f4e0e4f06bf1be49368e83772dd00a77a0571733506485818967411 0
 94/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-descendant-gtgt.js1733461125720656036 0
@@ -4271,6 +4298,8 @@
 108/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/entities/lib/generated/decode-data-xml.js1733461128900674646 0
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/c71733506485798967322 1
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/c7/dfd2d34ca9fb4e902c697ab6012471110483371733506485798967322 0
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/d51733506861180633890 1
+70/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/dist/test.js.map1733461126564660975 0
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/4d1733495731101639317 1
 102/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest6.c1733461126196658822 0
 73/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_to_primitive1733461126136658471 1
@@ -4303,7 +4332,7 @@
 114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/911733495731101639317 1
 76/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/source-map/dist/wasm.js1733461126432660201 0
 90/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/esm/_class_private_method_get.js1733461125664655708 0
-113/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/ORIG_HEAD1733506653971713360 0
+113/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/ORIG_HEAD1733506861420634958 0
 134/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/node_modules/htmlnano/.eslintignore1733495727721627708 0
 112/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/branches1733495708505561832 1
 94/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_class_static_private_field_update1733461125896657065 1
@@ -4311,7 +4340,7 @@
 116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/refs/remotes1733495725241619191 1
 93/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/src/_apply_decorated_descriptor.mjs1733461126332659618 0
 65/home/nuhazet/Descargas/Pokedex/node_modules/find-up/package.json1733483861397654941 0
-128/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/refs/remotes/origin/main1733506653911713093 0
+128/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/refs/remotes/origin/main1733506861400634869 0
 86/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-opacity.js1733461125780656386 0
 98/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/runtime-js/lib/helpers/browser/html-loader.js1733461127600667038 0
 132/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/refs/remotes/origin/gh-pages1733506656051722594 0
@@ -4320,6 +4349,7 @@
 91/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/src/_class_private_method_get.mjs1733461126424660155 0
 123/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/refs/heads/gh-pages1733506654019713573 0
 116/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/info/exclude1733495708513561858 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/fe/ba105f3b93df65d694578e237da4eb0ff9b9b41733506861188633925 0
 67/home/nuhazet/Descargas/Pokedex/node_modules/import-fresh/readme.md1733461124956651566 0
 64/home/nuhazet/Descargas/Pokedex/node_modules/async/reflectAll.js1733483862929663688 0
 62/home/nuhazet/Descargas/Pokedex/node_modules/error-ex/index.js1733461124912651309 0
@@ -4329,7 +4359,7 @@
 70/home/nuhazet/Descargas/Pokedex/node_modules/fs-extra/lib/util/stat.js1733483861641656334 0
 86/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/mediasource.js1733461126348659710 0
 72/home/nuhazet/Descargas/Pokedex/node_modules/fs-extra/lib/util/utimes.js1733483861649656380 0
-120/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.739bf03c.js.map1733506653999713485 0
+120/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/index.739bf03c.js.map1733506861440635047 0
 62/home/nuhazet/Descargas/Pokedex/node_modules/fs-extra/lib/json1733483861605656128 1
 96/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/esm/_class_extract_field_descriptor.js1733461125660655686 0
 75/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/esm/_ts_values.js1733461125744656176 0
@@ -4409,7 +4439,7 @@
 61/home/nuhazet/Descargas/Pokedex/node_modules/dotenv/config.js1733461126432660201 0
 92/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/domutils/lib/traversal.js1733461125112652478 0
 61/home/nuhazet/Descargas/Pokedex/node_modules/async/compose.js1733483862869663346 0
-153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/f1/26470647dccacac5321eccf33f9cae2314be791733506654007713520 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/f1/26470647dccacac5321eccf33f9cae2314be791733506861448635082 0
 61/home/nuhazet/Descargas/Pokedex/node_modules/async/forever.js1733483862909663573 0
 80/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/woff2.js1733461126680661654 0
 79/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dependencies/lz4/lib/xxhash.c1733461126220658961 0
@@ -4417,6 +4447,7 @@
 61/home/nuhazet/Descargas/Pokedex/node_modules/async/reflect.js1733483862925663665 0
 72/home/nuhazet/Descargas/Pokedex/node_modules/node-addon-api/package.json1733461125520654866 0
 67/home/nuhazet/Descargas/Pokedex/node_modules/async/priorityQueue.js1733483862921663642 0
+114/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/851733506861392634833 1
 77/home/nuhazet/Descargas/Pokedex/node_modules/@mischnic/json-sourcemap/LICENSE1733461126360659780 0
 61/home/nuhazet/Descargas/Pokedex/node_modules/async/groupBy.js1733483862909663573 0
 73/home/nuhazet/Descargas/Pokedex/node_modules/htmlparser2/lib/esm/index.js1733461125128652573 0
@@ -4522,7 +4553,7 @@
 86/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/src/_object_spread_props.mjs1733461126516660693 0
 78/home/nuhazet/Descargas/Pokedex/node_modules/@nodelib/fs.scandir/out/providers1733483861517655626 1
 86/home/nuhazet/Descargas/Pokedex/node_modules/@nodelib/fs.scandir/out/providers/sync.js1733483861505655557 0
-153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/82/f9932fe858bf374d0377eb3782c51367e712af1733506654007713520 0
+153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/82/f9932fe858bf374d0377eb3782c51367e712af1733506861448635082 0
 88/home/nuhazet/Descargas/Pokedex/node_modules/@nodelib/fs.scandir/out/providers/sync.d.ts1733483861517655626 0
 90/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/domutils/lib/feeds.d.ts1733461125196652971 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/types-internal/src/unsafe.js1733461126416660109 0
@@ -4615,6 +4646,8 @@
 71/home/nuhazet/Descargas/Pokedex/node_modules/queue-microtask/index.d.ts1733483861441655192 0
 69/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/utils/test/input1733461129296676965 1
 65/home/nuhazet/Descargas/Pokedex/node_modules/picocolors/README.md1733461124988651753 0
+69/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib1733461125048652103 1
+94/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/dom-serializer/lib/index.js1733461125044652081 0
 68/home/nuhazet/Descargas/Pokedex/node_modules/picocolors/package.json1733461124972651659 0
 77/home/nuhazet/Descargas/Pokedex/node_modules/picocolors/picocolors.browser.js1733461124920651355 0
 93/home/nuhazet/Descargas/Pokedex/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/LICENSE1733461125944657346 0
@@ -4654,7 +4687,6 @@
 93/home/nuhazet/Descargas/Pokedex/node_modules/@swc/core-linux-x64-musl/swc.linux-x64-musl.node1733483865057675836 0
 79/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/wasm.js1733461126672661607 0
 55/home/nuhazet/Descargas/Pokedex/node_modules/@swc/types1733461125300653580 1
-68/home/nuhazet/Descargas/Pokedex/node_modules/@swc/types/package.json1733461125284653485 0
 66/home/nuhazet/Descargas/Pokedex/node_modules/@swc/types/index.d.ts1733461125376654024 0
 54/home/nuhazet/Descargas/Pokedex/node_modules/@swc/core1733461125516654842 1
 153/home/nuhazet/Descargas/Pokedex/node_modules/.cache/gh-pages/git@github.com!NuhazetDev!gh-test.git/.git/objects/91/6e6d5362874222f86083c649ab08d4474876a61733495731101639317 0
@@ -4865,6 +4897,10 @@
 80/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_object_spread_props1733461126048657955 1
 92/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_class_private_field_destructure1733461125832656690 1
 105/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_class_private_field_destructure/package.json1733461125836656715 0
+78/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/package.json1733461125036652033 0
+91/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/lib/modules/removeAttributeQuotes.cjs1733461125916657183 0
+79/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/lib/resolveOptions.js1733461129488678090 0
+77/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_write_only_error1733461126284659336 1
 83/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/css-sel2.js1733461125804656526 0
 96/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_class_static_private_field_spec_set1733461125892657042 1
 69/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_to_array1733461126128658423 1
@@ -5034,7 +5070,6 @@
 111/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/entities/lib/generated/decode-data-html.d.ts1733461128944674905 0
 100/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/entities/lib/encode-trie.d.ts.map1733461128936674857 0
 103/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/dom-serializer/node_modules/entities1733461125164652782 1
-59/home/nuhazet/Descargas/Pokedex/dist/index.3092e1e0.css.map1733506280150056421 0
 83/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/domutils/LICENSE1733461124912651309 0
 94/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/domutils/lib/feeds.d.ts.map1733461125132652595 0
 106/home/nuhazet/Descargas/Pokedex/node_modules/node-gyp-build-optional-packages/node_modules/detect-libc/lib1733461128712673547 1
@@ -5106,9 +5141,6 @@
 71/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/dist/index.js.map1733461126468660412 0
 81/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_type_of/package.json1733461126220658961 0
 67/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/dist/node.cjs1733461126196658822 0
-70/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/dist/test.js.map1733461126564660975 0
-96/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/native-filesystem-api.js1733461126496660577 0
-82/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/stringify.js1733461124976651684 0
 99/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/package-manager/src/validateModuleSpecifier.js1733461128752673780 0
 75/home/nuhazet/Descargas/Pokedex/node_modules/entities/lib/esm/encode.js.map1733461125500654749 0
 66/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/dist/test.js1733461126336659640 0
@@ -5116,22 +5148,3 @@
 100/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/020-usage.md1733461126224658985 0
 64/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/events/test1733461129032675419 1
 67/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/node-index.js1733461126264659220 0
-63/home/nuhazet/Descargas/Pokedex/node_modules/msgpackr/struct.js1733461126284659336 0
-91/home/nuhazet/Descargas/Pokedex/node_modules/htmlnano/lib/modules/removeAttributeQuotes.cjs1733461125916657183 0
-79/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/core/lib/resolveOptions.js1733461129488678090 0
-77/home/nuhazet/Descargas/Pokedex/node_modules/@swc/helpers/_/_write_only_error1733461126284659336 1
-78/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/package.json1733461125036652033 0
-94/home/nuhazet/Descargas/Pokedex/node_modules/posthtml/node_modules/dom-serializer/lib/index.js1733461125044652081 0
-69/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib1733461125048652103 1
-78/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/parse.js1733461124960651590 0
-90/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/features/rest-parameters.js1733461126624661326 0
-80/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/index.d.ts1733461125068652221 0
-76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/PG.js1733461126584661091 0
-77/home/nuhazet/Descargas/Pokedex/node_modules/postcss-value-parser/lib/unit.js1733461125012651894 0
-59/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype1733461125044652081 1
-72/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/package.json1733461125032652011 0
-76/home/nuhazet/Descargas/Pokedex/node_modules/caniuse-lite/data/regions/ES.js1733461125904657113 0
-72/home/nuhazet/Descargas/Pokedex/node_modules/dom-serializer/package.json1733461125068652221 0
-69/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/readme.md1733461125052652127 0
-94/home/nuhazet/Descargas/Pokedex/node_modules/@parcel/transformer-babel/lib/BabelTransformer.js1733461127580666920 0
-63/home/nuhazet/Descargas/Pokedex/node_modules/domelementtype/lib1733461125116652503 1
