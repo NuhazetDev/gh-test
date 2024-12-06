@@ -1,9 +1,12 @@
 {
+  "homepage": "https://NuhazetDev.github.io/gh-test",
   "name": "pokedex",
   "version": "1.0.0",
-  "main": "index.js",
+  "source": "src/index.html",
   "scripts": {
-    "start": "parcel src/index.html"
+    "start": "parcel",
+    "build": "parcel build",
+    "deploy":"gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
